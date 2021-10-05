@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>The target Attribute</h2>
+
+<a href="https://www.kiet.edu" target="_blank">Visit kiet!</a> 
+
+
+
+</body>
+</html>
